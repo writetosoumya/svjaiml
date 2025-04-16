@@ -1,2 +1,2 @@
 # svjaiml
-My AI/ML Jorney journal 
+My AI/ML Journey journal 
